@@ -1,0 +1,14 @@
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\bin\Debug\KlientApi.exe.config
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\bin\Debug\KlientApi.exe
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\bin\Debug\KlientApi.pdb
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\obj\Debug\KlientApi.csproj.AssemblyReference.cache
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\obj\Debug\KlientApi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\obj\Debug\KlientApi.Form1.resources
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\obj\Debug\KlientApi.Properties.Resources.resources
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\obj\Debug\KlientApi.csproj.GenerateResource.cache
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\obj\Debug\KlientApi.csproj.CoreCompileInputs.cache
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\obj\Debug\KlientApi.exe
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\obj\Debug\KlientApi.pdb
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hoot_\source\repos\KlientApi\KlientApi\obj\Debug\KlientApi.csproj.CopyComplete
